@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\bin\Debug\netcoreapp3.1\CalculateProject.exe
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\bin\Debug\netcoreapp3.1\CalculateProject.deps.json
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\bin\Debug\netcoreapp3.1\CalculateProject.runtimeconfig.json
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\bin\Debug\netcoreapp3.1\CalculateProject.runtimeconfig.dev.json
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\bin\Debug\netcoreapp3.1\CalculateProject.dll
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\bin\Debug\netcoreapp3.1\CalculateProject.pdb
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\obj\Debug\netcoreapp3.1\CalculateProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\obj\Debug\netcoreapp3.1\CalculateProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\obj\Debug\netcoreapp3.1\CalculateProject.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\obj\Debug\netcoreapp3.1\CalculateProject.AssemblyInfo.cs
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\obj\Debug\netcoreapp3.1\CalculateProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\obj\Debug\netcoreapp3.1\CalculateProject.dll
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\obj\Debug\netcoreapp3.1\CalculateProject.pdb
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\obj\Debug\netcoreapp3.1\CalculateProject.genruntimeconfig.cache
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\bin\Debug\netcoreapp3.1\ClassLibrary1.dll
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\bin\Debug\netcoreapp3.1\ClassLibrary1.pdb
+C:\Users\user\Desktop\HomeWorks\AbstractClassWorks\CalculateProject\CalculateProject\obj\Debug\netcoreapp3.1\CalculateProject.csproj.CopyComplete
